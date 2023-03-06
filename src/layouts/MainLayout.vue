@@ -80,8 +80,8 @@
                     icon-right="expand_more"
                     style="min-height:16px !important; font-size: 14px !important; padding-left:0px; padding-right:0px;"
                   >
-                    <q-menu 
-                      
+                    <q-menu
+
                        anchor="bottom left"
 
                       auto-close>
@@ -309,7 +309,7 @@
                 padding-top: 15px;
               "
             >
-              Portal Version {{ $q.version }}
+              Portal Version 5.0.0-Beta01
 
               <q-item-section
                 clickable

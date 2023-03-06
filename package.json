@@ -1,6 +1,6 @@
 {
   "name": "stackblitz-quasar-v2-vite",
-  "version": "0.0.1",
+  "version": "5.0.0-Beta01",
   "description": "A Quasar CLI with Vite starter project.",
   "private": true,
   "scripts": {
